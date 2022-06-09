@@ -1,0 +1,7 @@
+{
+    "/ApiTest/*":{
+        "target": "https://408e-2806-261-414-b01a-bde3-b276-4738-db55.ngrok.io",
+        "secure":  false,
+        "changeOrigin": true
+    }
+}
