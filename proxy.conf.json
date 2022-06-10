@@ -1,6 +1,6 @@
 {
     "/ApiTest/*":{
-        "target": "https://408e-2806-261-414-b01a-bde3-b276-4738-db55.ngrok.io",
+        "target": "https://dee5-2806-261-48c-424-65ce-5842-4b1-4ac2.ngrok.io/",
         "secure":  false,
         "changeOrigin": true
     }
